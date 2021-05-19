@@ -50,7 +50,7 @@
 									        <option value="">Seleccionar</option>
 						                    <option style="color:#0071c5;" value="#0071c5">&#9724; Azul oscuro</option>
 						                    <option style="color:#40E0D0;" value="#40E0D0">&#9724; Turquesa</option>
-						                    <option style="color:#008000;" value="#008000">&#9724; Verde</option>						  
+						                    <option style="color:#008000;" value="#008000">&#9724; Verde</option>
 						                    <option style="color:#FFD700;" value="#FFD700">&#9724; Amarillo</option>
 						                    <option style="color:#FF8C00;" value="#FF8C00">&#9724; Naranja</option>
 						                    <option style="color:#FF0000;" value="#FF0000">&#9724; Rojo</option>
